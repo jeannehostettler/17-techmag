@@ -15,6 +15,7 @@ header {
   background-size: cover;
   padding: 30px;
   border-top: 20px #11161D solid;
+  font-size: 20px;
 }
 
 .box-title {
@@ -38,6 +39,7 @@ header {
   color: #E6F3FF;
   text-decoration: none;
   margin-bottom: 10px;
+  font-size: 18px;
 }
 
 .cta-light {
@@ -49,6 +51,15 @@ header {
   background-color: #E6F3FF;
   padding: 30px;
   text-align: center;
+  font-size: 16px;
+}
+
+.disquette-container {
+  align-items: center;
+}
+
+.img-disquette {
+  max-width: 15%;
 }
 
 h2 {
@@ -68,4 +79,17 @@ h2 {
   margin: 30px;
   padding: 20px;
   color: #11161D;
+  font-size: 23px;
+}
+
+.icones-articles {
+  max-width: 40%;
+}
+
+footer {
+  background-color: #11161D;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 12px;
 }
