@@ -54,10 +54,6 @@ header {
   font-size: 16px;
 }
 
-.img-disquette {
-  max-width: 15%;
-}
-
 h2 {
   font-family: 'Space Grotesk', sans-serif;
   font-weight: 300;
@@ -69,22 +65,20 @@ h2 {
   color: #E6F3FF;
 }
 
-.light-bg {
+.card {
   background-color: #E6F3FF;
   border-radius: 10px;
   margin: 30px;
   padding: 20px;
   color: #11161D;
   font-size: 23px;
-}
-
-.icones-articles {
-  max-width: 40%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 footer {
   background-color: #11161D;
-  color: white;
+  color: #ffffff54;
   padding: 20px;
   text-align: center;
   font-size: 12px;
