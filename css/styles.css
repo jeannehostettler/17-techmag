@@ -8,3 +8,16 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background-image: url(../img/image_de_fond.webp);
+  padding-bottom: 10px;
+}
+
+.box-title {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 30px;
+}
