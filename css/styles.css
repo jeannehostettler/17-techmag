@@ -22,13 +22,13 @@ header {
   background-color: #11161D;
   color: #E6F3FF;
   padding: 20px;
+  margin: 10px;
 }
 
 .cta-container {
   display: flex;
   flex-direction: column;
   align-items:center;
-  padding: 20px;
 }
 
 .cta { 
@@ -37,9 +37,35 @@ header {
   border-radius: 10px;
   color: #E6F3FF;
   text-decoration: none;
+  margin-bottom: 10px;
 }
 
 .cta-light {
   background-color: #E6F3FF;
+  color: #11161D;
+}
+
+.section-light {
+  background-color: #E6F3FF;
+  padding: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 300;
+}
+
+.section-dark {
+  background-color: #11161D;
+  padding: 30px;
+  color: #E6F3FF;
+}
+
+.light-bg {
+  background-color: #E6F3FF;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 20px;
   color: #11161D;
 }
